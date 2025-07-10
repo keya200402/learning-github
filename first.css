@@ -1,0 +1,21 @@
+#car{
+    position:absolute;
+    right: 0%;
+    width: 100px;
+    height: 120px;
+    background-color: aqua;
+}
+#car1{
+    position: relative;
+    right: 20%;
+    width: 70px;
+    height: 100px;
+    background-color: rgb(159, 225, 15);
+}
+#car2{
+    position: relative;
+    right: 500%;
+    width: 100px;
+    height: 110px;
+    background-color: rgb(9, 62, 210);
+}
